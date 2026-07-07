@@ -1,3 +1,4 @@
+In this dataset
 Used Text to column to separate the data into readable format.
 Filtered the columns and removed blanks from the Income column.
 Used Proper() to standardize the Marital status and ducation
